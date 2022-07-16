@@ -1,4 +1,6 @@
-﻿int n = new Random().Next(100,999);
+﻿
+
+int n = new Random().Next(100,999);
 
 Console.WriteLine(n); //564 564/100 = 5,64  564/10 = 56,4
 
