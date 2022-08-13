@@ -1,0 +1,30 @@
+/home/olgavk/Desktop/GBlessC/Seminar/Task_ 11/obj/Debug/net6.0/Tasl_ 11.csproj.AssemblyReference.cache
+/home/olgavk/Desktop/GBlessC/Seminar/Task_ 11/obj/Debug/net6.0/Tasl_ 11.GeneratedMSBuildEditorConfig.editorconfig
+/home/olgavk/Desktop/GBlessC/Seminar/Task_ 11/obj/Debug/net6.0/Tasl_ 11.AssemblyInfoInputs.cache
+/home/olgavk/Desktop/GBlessC/Seminar/Task_ 11/obj/Debug/net6.0/Tasl_ 11.AssemblyInfo.cs
+/home/olgavk/Desktop/GBlessC/Seminar/Task_ 11/obj/Debug/net6.0/Tasl_ 11.csproj.CoreCompileInputs.cache
+/home/olgavk/Desktop/GBlessC/Seminar/Task_ 11/bin/Debug/net6.0/Tasl_ 11
+/home/olgavk/Desktop/GBlessC/Seminar/Task_ 11/bin/Debug/net6.0/Tasl_ 11.deps.json
+/home/olgavk/Desktop/GBlessC/Seminar/Task_ 11/bin/Debug/net6.0/Tasl_ 11.runtimeconfig.json
+/home/olgavk/Desktop/GBlessC/Seminar/Task_ 11/bin/Debug/net6.0/Tasl_ 11.dll
+/home/olgavk/Desktop/GBlessC/Seminar/Task_ 11/bin/Debug/net6.0/Tasl_ 11.pdb
+/home/olgavk/Desktop/GBlessC/Seminar/Task_ 11/obj/Debug/net6.0/Tasl_ 11.dll
+/home/olgavk/Desktop/GBlessC/Seminar/Task_ 11/obj/Debug/net6.0/refint/Tasl_ 11.dll
+/home/olgavk/Desktop/GBlessC/Seminar/Task_ 11/obj/Debug/net6.0/Tasl_ 11.pdb
+/home/olgavk/Desktop/GBlessC/Seminar/Task_ 11/obj/Debug/net6.0/Tasl_ 11.genruntimeconfig.cache
+/home/olgavk/Desktop/GBlessC/Seminar/Task_ 11/obj/Debug/net6.0/ref/Tasl_ 11.dll
+/home/olgavk/Desktop/GBlessC/Seminar/Task_11/bin/Debug/net6.0/Tasl_ 11
+/home/olgavk/Desktop/GBlessC/Seminar/Task_11/bin/Debug/net6.0/Tasl_ 11.deps.json
+/home/olgavk/Desktop/GBlessC/Seminar/Task_11/bin/Debug/net6.0/Tasl_ 11.runtimeconfig.json
+/home/olgavk/Desktop/GBlessC/Seminar/Task_11/bin/Debug/net6.0/Tasl_ 11.dll
+/home/olgavk/Desktop/GBlessC/Seminar/Task_11/bin/Debug/net6.0/Tasl_ 11.pdb
+/home/olgavk/Desktop/GBlessC/Seminar/Task_11/obj/Debug/net6.0/Tasl_ 11.csproj.AssemblyReference.cache
+/home/olgavk/Desktop/GBlessC/Seminar/Task_11/obj/Debug/net6.0/Tasl_ 11.GeneratedMSBuildEditorConfig.editorconfig
+/home/olgavk/Desktop/GBlessC/Seminar/Task_11/obj/Debug/net6.0/Tasl_ 11.AssemblyInfoInputs.cache
+/home/olgavk/Desktop/GBlessC/Seminar/Task_11/obj/Debug/net6.0/Tasl_ 11.AssemblyInfo.cs
+/home/olgavk/Desktop/GBlessC/Seminar/Task_11/obj/Debug/net6.0/Tasl_ 11.csproj.CoreCompileInputs.cache
+/home/olgavk/Desktop/GBlessC/Seminar/Task_11/obj/Debug/net6.0/Tasl_ 11.dll
+/home/olgavk/Desktop/GBlessC/Seminar/Task_11/obj/Debug/net6.0/refint/Tasl_ 11.dll
+/home/olgavk/Desktop/GBlessC/Seminar/Task_11/obj/Debug/net6.0/Tasl_ 11.pdb
+/home/olgavk/Desktop/GBlessC/Seminar/Task_11/obj/Debug/net6.0/Tasl_ 11.genruntimeconfig.cache
+/home/olgavk/Desktop/GBlessC/Seminar/Task_11/obj/Debug/net6.0/ref/Tasl_ 11.dll

@@ -1,0 +1,15 @@
+/home/olgavk/Desktop/GBlessC/Seminar/Task_21home/bin/Debug/net6.0/Tasl_21home
+/home/olgavk/Desktop/GBlessC/Seminar/Task_21home/bin/Debug/net6.0/Tasl_21home.deps.json
+/home/olgavk/Desktop/GBlessC/Seminar/Task_21home/bin/Debug/net6.0/Tasl_21home.runtimeconfig.json
+/home/olgavk/Desktop/GBlessC/Seminar/Task_21home/bin/Debug/net6.0/Tasl_21home.dll
+/home/olgavk/Desktop/GBlessC/Seminar/Task_21home/bin/Debug/net6.0/Tasl_21home.pdb
+/home/olgavk/Desktop/GBlessC/Seminar/Task_21home/obj/Debug/net6.0/Tasl_21home.csproj.AssemblyReference.cache
+/home/olgavk/Desktop/GBlessC/Seminar/Task_21home/obj/Debug/net6.0/Tasl_21home.GeneratedMSBuildEditorConfig.editorconfig
+/home/olgavk/Desktop/GBlessC/Seminar/Task_21home/obj/Debug/net6.0/Tasl_21home.AssemblyInfoInputs.cache
+/home/olgavk/Desktop/GBlessC/Seminar/Task_21home/obj/Debug/net6.0/Tasl_21home.AssemblyInfo.cs
+/home/olgavk/Desktop/GBlessC/Seminar/Task_21home/obj/Debug/net6.0/Tasl_21home.csproj.CoreCompileInputs.cache
+/home/olgavk/Desktop/GBlessC/Seminar/Task_21home/obj/Debug/net6.0/Tasl_21home.dll
+/home/olgavk/Desktop/GBlessC/Seminar/Task_21home/obj/Debug/net6.0/refint/Tasl_21home.dll
+/home/olgavk/Desktop/GBlessC/Seminar/Task_21home/obj/Debug/net6.0/Tasl_21home.pdb
+/home/olgavk/Desktop/GBlessC/Seminar/Task_21home/obj/Debug/net6.0/Tasl_21home.genruntimeconfig.cache
+/home/olgavk/Desktop/GBlessC/Seminar/Task_21home/obj/Debug/net6.0/ref/Tasl_21home.dll

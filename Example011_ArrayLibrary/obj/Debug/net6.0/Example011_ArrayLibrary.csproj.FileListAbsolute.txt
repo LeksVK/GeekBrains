@@ -1,0 +1,15 @@
+/home/olgavk/Desktop/GBlessC/Example011_ArrayLibrary/obj/Debug/net6.0/Example011_ArrayLibrary.csproj.AssemblyReference.cache
+/home/olgavk/Desktop/GBlessC/Example011_ArrayLibrary/obj/Debug/net6.0/Example011_ArrayLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/home/olgavk/Desktop/GBlessC/Example011_ArrayLibrary/obj/Debug/net6.0/Example011_ArrayLibrary.AssemblyInfoInputs.cache
+/home/olgavk/Desktop/GBlessC/Example011_ArrayLibrary/obj/Debug/net6.0/Example011_ArrayLibrary.AssemblyInfo.cs
+/home/olgavk/Desktop/GBlessC/Example011_ArrayLibrary/obj/Debug/net6.0/Example011_ArrayLibrary.csproj.CoreCompileInputs.cache
+/home/olgavk/Desktop/GBlessC/Example011_ArrayLibrary/bin/Debug/net6.0/Example011_ArrayLibrary
+/home/olgavk/Desktop/GBlessC/Example011_ArrayLibrary/bin/Debug/net6.0/Example011_ArrayLibrary.deps.json
+/home/olgavk/Desktop/GBlessC/Example011_ArrayLibrary/bin/Debug/net6.0/Example011_ArrayLibrary.runtimeconfig.json
+/home/olgavk/Desktop/GBlessC/Example011_ArrayLibrary/bin/Debug/net6.0/Example011_ArrayLibrary.dll
+/home/olgavk/Desktop/GBlessC/Example011_ArrayLibrary/bin/Debug/net6.0/Example011_ArrayLibrary.pdb
+/home/olgavk/Desktop/GBlessC/Example011_ArrayLibrary/obj/Debug/net6.0/Example011_ArrayLibrary.dll
+/home/olgavk/Desktop/GBlessC/Example011_ArrayLibrary/obj/Debug/net6.0/refint/Example011_ArrayLibrary.dll
+/home/olgavk/Desktop/GBlessC/Example011_ArrayLibrary/obj/Debug/net6.0/Example011_ArrayLibrary.pdb
+/home/olgavk/Desktop/GBlessC/Example011_ArrayLibrary/obj/Debug/net6.0/Example011_ArrayLibrary.genruntimeconfig.cache
+/home/olgavk/Desktop/GBlessC/Example011_ArrayLibrary/obj/Debug/net6.0/ref/Example011_ArrayLibrary.dll

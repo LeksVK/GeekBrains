@@ -1,0 +1,15 @@
+/home/olgavk/Desktop/GBlessC/Example002_HelloUser/bin/Debug/net6.0/Example002_HelloUser
+/home/olgavk/Desktop/GBlessC/Example002_HelloUser/bin/Debug/net6.0/Example002_HelloUser.deps.json
+/home/olgavk/Desktop/GBlessC/Example002_HelloUser/bin/Debug/net6.0/Example002_HelloUser.runtimeconfig.json
+/home/olgavk/Desktop/GBlessC/Example002_HelloUser/bin/Debug/net6.0/Example002_HelloUser.dll
+/home/olgavk/Desktop/GBlessC/Example002_HelloUser/bin/Debug/net6.0/Example002_HelloUser.pdb
+/home/olgavk/Desktop/GBlessC/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.csproj.AssemblyReference.cache
+/home/olgavk/Desktop/GBlessC/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+/home/olgavk/Desktop/GBlessC/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.AssemblyInfoInputs.cache
+/home/olgavk/Desktop/GBlessC/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.AssemblyInfo.cs
+/home/olgavk/Desktop/GBlessC/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.csproj.CoreCompileInputs.cache
+/home/olgavk/Desktop/GBlessC/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.dll
+/home/olgavk/Desktop/GBlessC/Example002_HelloUser/obj/Debug/net6.0/refint/Example002_HelloUser.dll
+/home/olgavk/Desktop/GBlessC/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.pdb
+/home/olgavk/Desktop/GBlessC/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.genruntimeconfig.cache
+/home/olgavk/Desktop/GBlessC/Example002_HelloUser/obj/Debug/net6.0/ref/Example002_HelloUser.dll

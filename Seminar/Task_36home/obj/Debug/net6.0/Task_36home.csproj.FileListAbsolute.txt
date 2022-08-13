@@ -1,0 +1,15 @@
+/home/olgavk/Desktop/GBlessC/Seminar/Task_36home/obj/Debug/net6.0/Task_36home.csproj.AssemblyReference.cache
+/home/olgavk/Desktop/GBlessC/Seminar/Task_36home/obj/Debug/net6.0/Task_36home.GeneratedMSBuildEditorConfig.editorconfig
+/home/olgavk/Desktop/GBlessC/Seminar/Task_36home/obj/Debug/net6.0/Task_36home.AssemblyInfoInputs.cache
+/home/olgavk/Desktop/GBlessC/Seminar/Task_36home/obj/Debug/net6.0/Task_36home.AssemblyInfo.cs
+/home/olgavk/Desktop/GBlessC/Seminar/Task_36home/obj/Debug/net6.0/Task_36home.csproj.CoreCompileInputs.cache
+/home/olgavk/Desktop/GBlessC/Seminar/Task_36home/bin/Debug/net6.0/Task_36home
+/home/olgavk/Desktop/GBlessC/Seminar/Task_36home/bin/Debug/net6.0/Task_36home.deps.json
+/home/olgavk/Desktop/GBlessC/Seminar/Task_36home/bin/Debug/net6.0/Task_36home.runtimeconfig.json
+/home/olgavk/Desktop/GBlessC/Seminar/Task_36home/bin/Debug/net6.0/Task_36home.dll
+/home/olgavk/Desktop/GBlessC/Seminar/Task_36home/bin/Debug/net6.0/Task_36home.pdb
+/home/olgavk/Desktop/GBlessC/Seminar/Task_36home/obj/Debug/net6.0/Task_36home.dll
+/home/olgavk/Desktop/GBlessC/Seminar/Task_36home/obj/Debug/net6.0/refint/Task_36home.dll
+/home/olgavk/Desktop/GBlessC/Seminar/Task_36home/obj/Debug/net6.0/Task_36home.pdb
+/home/olgavk/Desktop/GBlessC/Seminar/Task_36home/obj/Debug/net6.0/Task_36home.genruntimeconfig.cache
+/home/olgavk/Desktop/GBlessC/Seminar/Task_36home/obj/Debug/net6.0/ref/Task_36home.dll

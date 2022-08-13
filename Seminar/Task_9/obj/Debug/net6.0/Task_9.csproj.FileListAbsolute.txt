@@ -1,0 +1,15 @@
+/home/olgavk/Desktop/GBlessC/Seminar/Task_9/bin/Debug/net6.0/Task_9
+/home/olgavk/Desktop/GBlessC/Seminar/Task_9/bin/Debug/net6.0/Task_9.deps.json
+/home/olgavk/Desktop/GBlessC/Seminar/Task_9/bin/Debug/net6.0/Task_9.runtimeconfig.json
+/home/olgavk/Desktop/GBlessC/Seminar/Task_9/bin/Debug/net6.0/Task_9.dll
+/home/olgavk/Desktop/GBlessC/Seminar/Task_9/bin/Debug/net6.0/Task_9.pdb
+/home/olgavk/Desktop/GBlessC/Seminar/Task_9/obj/Debug/net6.0/Task_9.csproj.AssemblyReference.cache
+/home/olgavk/Desktop/GBlessC/Seminar/Task_9/obj/Debug/net6.0/Task_9.GeneratedMSBuildEditorConfig.editorconfig
+/home/olgavk/Desktop/GBlessC/Seminar/Task_9/obj/Debug/net6.0/Task_9.AssemblyInfoInputs.cache
+/home/olgavk/Desktop/GBlessC/Seminar/Task_9/obj/Debug/net6.0/Task_9.AssemblyInfo.cs
+/home/olgavk/Desktop/GBlessC/Seminar/Task_9/obj/Debug/net6.0/Task_9.csproj.CoreCompileInputs.cache
+/home/olgavk/Desktop/GBlessC/Seminar/Task_9/obj/Debug/net6.0/Task_9.dll
+/home/olgavk/Desktop/GBlessC/Seminar/Task_9/obj/Debug/net6.0/refint/Task_9.dll
+/home/olgavk/Desktop/GBlessC/Seminar/Task_9/obj/Debug/net6.0/Task_9.pdb
+/home/olgavk/Desktop/GBlessC/Seminar/Task_9/obj/Debug/net6.0/Task_9.genruntimeconfig.cache
+/home/olgavk/Desktop/GBlessC/Seminar/Task_9/obj/Debug/net6.0/ref/Task_9.dll

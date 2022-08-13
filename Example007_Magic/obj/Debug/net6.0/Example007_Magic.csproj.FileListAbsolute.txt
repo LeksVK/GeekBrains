@@ -1,0 +1,15 @@
+/home/olgavk/Desktop/GBlessC/Example007_Magic/bin/Debug/net6.0/Example007_Magic
+/home/olgavk/Desktop/GBlessC/Example007_Magic/bin/Debug/net6.0/Example007_Magic.deps.json
+/home/olgavk/Desktop/GBlessC/Example007_Magic/bin/Debug/net6.0/Example007_Magic.runtimeconfig.json
+/home/olgavk/Desktop/GBlessC/Example007_Magic/bin/Debug/net6.0/Example007_Magic.dll
+/home/olgavk/Desktop/GBlessC/Example007_Magic/bin/Debug/net6.0/Example007_Magic.pdb
+/home/olgavk/Desktop/GBlessC/Example007_Magic/obj/Debug/net6.0/Example007_Magic.csproj.AssemblyReference.cache
+/home/olgavk/Desktop/GBlessC/Example007_Magic/obj/Debug/net6.0/Example007_Magic.GeneratedMSBuildEditorConfig.editorconfig
+/home/olgavk/Desktop/GBlessC/Example007_Magic/obj/Debug/net6.0/Example007_Magic.AssemblyInfoInputs.cache
+/home/olgavk/Desktop/GBlessC/Example007_Magic/obj/Debug/net6.0/Example007_Magic.AssemblyInfo.cs
+/home/olgavk/Desktop/GBlessC/Example007_Magic/obj/Debug/net6.0/Example007_Magic.csproj.CoreCompileInputs.cache
+/home/olgavk/Desktop/GBlessC/Example007_Magic/obj/Debug/net6.0/Example007_Magic.dll
+/home/olgavk/Desktop/GBlessC/Example007_Magic/obj/Debug/net6.0/refint/Example007_Magic.dll
+/home/olgavk/Desktop/GBlessC/Example007_Magic/obj/Debug/net6.0/Example007_Magic.pdb
+/home/olgavk/Desktop/GBlessC/Example007_Magic/obj/Debug/net6.0/Example007_Magic.genruntimeconfig.cache
+/home/olgavk/Desktop/GBlessC/Example007_Magic/obj/Debug/net6.0/ref/Example007_Magic.dll

@@ -1,0 +1,15 @@
+/home/olgavk/Desktop/GBlessC/Seminar/Task_45/bin/Debug/net6.0/Task_45
+/home/olgavk/Desktop/GBlessC/Seminar/Task_45/bin/Debug/net6.0/Task_45.deps.json
+/home/olgavk/Desktop/GBlessC/Seminar/Task_45/bin/Debug/net6.0/Task_45.runtimeconfig.json
+/home/olgavk/Desktop/GBlessC/Seminar/Task_45/bin/Debug/net6.0/Task_45.dll
+/home/olgavk/Desktop/GBlessC/Seminar/Task_45/bin/Debug/net6.0/Task_45.pdb
+/home/olgavk/Desktop/GBlessC/Seminar/Task_45/obj/Debug/net6.0/Task_45.csproj.AssemblyReference.cache
+/home/olgavk/Desktop/GBlessC/Seminar/Task_45/obj/Debug/net6.0/Task_45.GeneratedMSBuildEditorConfig.editorconfig
+/home/olgavk/Desktop/GBlessC/Seminar/Task_45/obj/Debug/net6.0/Task_45.AssemblyInfoInputs.cache
+/home/olgavk/Desktop/GBlessC/Seminar/Task_45/obj/Debug/net6.0/Task_45.AssemblyInfo.cs
+/home/olgavk/Desktop/GBlessC/Seminar/Task_45/obj/Debug/net6.0/Task_45.csproj.CoreCompileInputs.cache
+/home/olgavk/Desktop/GBlessC/Seminar/Task_45/obj/Debug/net6.0/Task_45.dll
+/home/olgavk/Desktop/GBlessC/Seminar/Task_45/obj/Debug/net6.0/refint/Task_45.dll
+/home/olgavk/Desktop/GBlessC/Seminar/Task_45/obj/Debug/net6.0/Task_45.pdb
+/home/olgavk/Desktop/GBlessC/Seminar/Task_45/obj/Debug/net6.0/Task_45.genruntimeconfig.cache
+/home/olgavk/Desktop/GBlessC/Seminar/Task_45/obj/Debug/net6.0/ref/Task_45.dll

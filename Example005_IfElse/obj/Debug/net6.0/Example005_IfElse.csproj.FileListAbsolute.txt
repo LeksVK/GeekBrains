@@ -1,0 +1,15 @@
+/home/olgavk/Desktop/GBlessC/Example005_IfElse/bin/Debug/net6.0/Example005_IfElse
+/home/olgavk/Desktop/GBlessC/Example005_IfElse/bin/Debug/net6.0/Example005_IfElse.deps.json
+/home/olgavk/Desktop/GBlessC/Example005_IfElse/bin/Debug/net6.0/Example005_IfElse.runtimeconfig.json
+/home/olgavk/Desktop/GBlessC/Example005_IfElse/bin/Debug/net6.0/Example005_IfElse.dll
+/home/olgavk/Desktop/GBlessC/Example005_IfElse/bin/Debug/net6.0/Example005_IfElse.pdb
+/home/olgavk/Desktop/GBlessC/Example005_IfElse/obj/Debug/net6.0/Example005_IfElse.csproj.AssemblyReference.cache
+/home/olgavk/Desktop/GBlessC/Example005_IfElse/obj/Debug/net6.0/Example005_IfElse.GeneratedMSBuildEditorConfig.editorconfig
+/home/olgavk/Desktop/GBlessC/Example005_IfElse/obj/Debug/net6.0/Example005_IfElse.AssemblyInfoInputs.cache
+/home/olgavk/Desktop/GBlessC/Example005_IfElse/obj/Debug/net6.0/Example005_IfElse.AssemblyInfo.cs
+/home/olgavk/Desktop/GBlessC/Example005_IfElse/obj/Debug/net6.0/Example005_IfElse.csproj.CoreCompileInputs.cache
+/home/olgavk/Desktop/GBlessC/Example005_IfElse/obj/Debug/net6.0/Example005_IfElse.dll
+/home/olgavk/Desktop/GBlessC/Example005_IfElse/obj/Debug/net6.0/refint/Example005_IfElse.dll
+/home/olgavk/Desktop/GBlessC/Example005_IfElse/obj/Debug/net6.0/Example005_IfElse.pdb
+/home/olgavk/Desktop/GBlessC/Example005_IfElse/obj/Debug/net6.0/Example005_IfElse.genruntimeconfig.cache
+/home/olgavk/Desktop/GBlessC/Example005_IfElse/obj/Debug/net6.0/ref/Example005_IfElse.dll

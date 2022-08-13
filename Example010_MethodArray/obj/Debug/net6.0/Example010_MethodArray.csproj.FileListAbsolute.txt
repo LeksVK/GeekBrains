@@ -1,0 +1,15 @@
+/home/olgavk/Desktop/GBlessC/Example010_MethodArray/obj/Debug/net6.0/Example010_MethodArray.csproj.AssemblyReference.cache
+/home/olgavk/Desktop/GBlessC/Example010_MethodArray/obj/Debug/net6.0/Example010_MethodArray.GeneratedMSBuildEditorConfig.editorconfig
+/home/olgavk/Desktop/GBlessC/Example010_MethodArray/obj/Debug/net6.0/Example010_MethodArray.AssemblyInfoInputs.cache
+/home/olgavk/Desktop/GBlessC/Example010_MethodArray/obj/Debug/net6.0/Example010_MethodArray.AssemblyInfo.cs
+/home/olgavk/Desktop/GBlessC/Example010_MethodArray/obj/Debug/net6.0/Example010_MethodArray.csproj.CoreCompileInputs.cache
+/home/olgavk/Desktop/GBlessC/Example010_MethodArray/bin/Debug/net6.0/Example010_MethodArray
+/home/olgavk/Desktop/GBlessC/Example010_MethodArray/bin/Debug/net6.0/Example010_MethodArray.deps.json
+/home/olgavk/Desktop/GBlessC/Example010_MethodArray/bin/Debug/net6.0/Example010_MethodArray.runtimeconfig.json
+/home/olgavk/Desktop/GBlessC/Example010_MethodArray/bin/Debug/net6.0/Example010_MethodArray.dll
+/home/olgavk/Desktop/GBlessC/Example010_MethodArray/bin/Debug/net6.0/Example010_MethodArray.pdb
+/home/olgavk/Desktop/GBlessC/Example010_MethodArray/obj/Debug/net6.0/Example010_MethodArray.dll
+/home/olgavk/Desktop/GBlessC/Example010_MethodArray/obj/Debug/net6.0/refint/Example010_MethodArray.dll
+/home/olgavk/Desktop/GBlessC/Example010_MethodArray/obj/Debug/net6.0/Example010_MethodArray.pdb
+/home/olgavk/Desktop/GBlessC/Example010_MethodArray/obj/Debug/net6.0/Example010_MethodArray.genruntimeconfig.cache
+/home/olgavk/Desktop/GBlessC/Example010_MethodArray/obj/Debug/net6.0/ref/Example010_MethodArray.dll

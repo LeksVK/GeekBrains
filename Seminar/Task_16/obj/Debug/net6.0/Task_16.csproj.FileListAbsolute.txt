@@ -1,0 +1,15 @@
+/home/olgavk/Desktop/GBlessC/Seminar/Task_16/obj/Debug/net6.0/Task_16.csproj.AssemblyReference.cache
+/home/olgavk/Desktop/GBlessC/Seminar/Task_16/obj/Debug/net6.0/Task_16.GeneratedMSBuildEditorConfig.editorconfig
+/home/olgavk/Desktop/GBlessC/Seminar/Task_16/obj/Debug/net6.0/Task_16.AssemblyInfoInputs.cache
+/home/olgavk/Desktop/GBlessC/Seminar/Task_16/obj/Debug/net6.0/Task_16.AssemblyInfo.cs
+/home/olgavk/Desktop/GBlessC/Seminar/Task_16/obj/Debug/net6.0/Task_16.csproj.CoreCompileInputs.cache
+/home/olgavk/Desktop/GBlessC/Seminar/Task_16/bin/Debug/net6.0/Task_16
+/home/olgavk/Desktop/GBlessC/Seminar/Task_16/bin/Debug/net6.0/Task_16.deps.json
+/home/olgavk/Desktop/GBlessC/Seminar/Task_16/bin/Debug/net6.0/Task_16.runtimeconfig.json
+/home/olgavk/Desktop/GBlessC/Seminar/Task_16/bin/Debug/net6.0/Task_16.dll
+/home/olgavk/Desktop/GBlessC/Seminar/Task_16/bin/Debug/net6.0/Task_16.pdb
+/home/olgavk/Desktop/GBlessC/Seminar/Task_16/obj/Debug/net6.0/Task_16.dll
+/home/olgavk/Desktop/GBlessC/Seminar/Task_16/obj/Debug/net6.0/refint/Task_16.dll
+/home/olgavk/Desktop/GBlessC/Seminar/Task_16/obj/Debug/net6.0/Task_16.pdb
+/home/olgavk/Desktop/GBlessC/Seminar/Task_16/obj/Debug/net6.0/Task_16.genruntimeconfig.cache
+/home/olgavk/Desktop/GBlessC/Seminar/Task_16/obj/Debug/net6.0/ref/Task_16.dll

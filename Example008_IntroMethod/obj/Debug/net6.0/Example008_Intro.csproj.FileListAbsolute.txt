@@ -1,0 +1,15 @@
+/home/olgavk/Desktop/GBlessC/Example008_IntroMethod/bin/Debug/net6.0/Example008_Intro
+/home/olgavk/Desktop/GBlessC/Example008_IntroMethod/bin/Debug/net6.0/Example008_Intro.deps.json
+/home/olgavk/Desktop/GBlessC/Example008_IntroMethod/bin/Debug/net6.0/Example008_Intro.runtimeconfig.json
+/home/olgavk/Desktop/GBlessC/Example008_IntroMethod/bin/Debug/net6.0/Example008_Intro.dll
+/home/olgavk/Desktop/GBlessC/Example008_IntroMethod/bin/Debug/net6.0/Example008_Intro.pdb
+/home/olgavk/Desktop/GBlessC/Example008_IntroMethod/obj/Debug/net6.0/Example008_Intro.csproj.AssemblyReference.cache
+/home/olgavk/Desktop/GBlessC/Example008_IntroMethod/obj/Debug/net6.0/Example008_Intro.GeneratedMSBuildEditorConfig.editorconfig
+/home/olgavk/Desktop/GBlessC/Example008_IntroMethod/obj/Debug/net6.0/Example008_Intro.AssemblyInfoInputs.cache
+/home/olgavk/Desktop/GBlessC/Example008_IntroMethod/obj/Debug/net6.0/Example008_Intro.AssemblyInfo.cs
+/home/olgavk/Desktop/GBlessC/Example008_IntroMethod/obj/Debug/net6.0/Example008_Intro.csproj.CoreCompileInputs.cache
+/home/olgavk/Desktop/GBlessC/Example008_IntroMethod/obj/Debug/net6.0/Example008_Intro.dll
+/home/olgavk/Desktop/GBlessC/Example008_IntroMethod/obj/Debug/net6.0/refint/Example008_Intro.dll
+/home/olgavk/Desktop/GBlessC/Example008_IntroMethod/obj/Debug/net6.0/Example008_Intro.pdb
+/home/olgavk/Desktop/GBlessC/Example008_IntroMethod/obj/Debug/net6.0/Example008_Intro.genruntimeconfig.cache
+/home/olgavk/Desktop/GBlessC/Example008_IntroMethod/obj/Debug/net6.0/ref/Example008_Intro.dll
