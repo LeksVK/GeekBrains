@@ -50,7 +50,7 @@ string[] filterArrayString (string[] array) {
 
 void PrintArray(string[] array) {
     int i = 0 ;
-    Console.WritLine($"Строки, длина которых меньше {num}:");
+    Console.WriteLine($"Строки, длина которых меньше {num}:");
     Console.Write("[");
     while (i < array.Length) {
         Console.Write(array[i] + " ");

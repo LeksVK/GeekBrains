@@ -22,7 +22,7 @@ void PrintArray(int[] col) { //метод вывода содержимого м
 int IndexOf(int[] collection, int find) {
     int count = collection.Length;
     int i = 0;
-    int position = 0; // -1 указываем, условная договоренность, что есть возвращается -1 элемента нет
+    int position = 0; // -1 указываем, условная договоренность, что если возвращается -1 элемента нет
 
     while (i < count) {
         if(collection[i] == find) {

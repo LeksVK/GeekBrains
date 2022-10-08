@@ -8,7 +8,7 @@ int[] FullArray(int[] array) {
 
     int n = array.Length;
     int[] newArray = array;
-    int i =0;
+    int i = 0;
 
     Random rnd = new Random();
 
